@@ -9,3 +9,10 @@ A functional web application built to demonstrate **Frontend Development** skill
 ## 🛠️ Tech Stack
 - HTML5 & CSS3
 - Vanilla JavaScript (DOM Manipulation)
+
+
+## 📸 Project Preview
+
+| Initial State | Completed Onboarding |
+| ------------- | -------------------- |
+| ![Before](Screenshot 2026-04-01 194848.png) | ![After](2026-04-01 194907.png) |
