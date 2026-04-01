@@ -1,0 +1,23 @@
+body
+{ font-family: 'Segoe UI', Tahoma, sans-serif; background: #f0f2f5; padding: 20px; }
+.container { max-width: 900px; margin: auto; }
+header 
+{ background: #0078d4; color: white; padding: 25px; border-radius: 12px; margin-bottom: 20px; }
+.dashboard-grid 
+{ display: flex; gap: 20px; flex-wrap: wrap; }
+.card 
+{ background: white; padding: 20px; border-radius: 12px; flex: 1; min-width: 280px; box-shadow: 0 4px 10px rgba(0,0,0,0.05); }
+.badge
+ { background: #dff6dd; color: #107c10; padding: 4px 8px; border-radius: 4px; font-size: 12px; }
+.progress-bar
+ { background: #eee; height: 8px; border-radius: 4px; margin-top: 15px; }
+.progress 
+{ background: #0078d4; height: 100%; border-radius: 4px; }
+.checklist 
+{ list-style: none; padding: 0; }
+.checklist li 
+{ margin-bottom: 10px; }
+button 
+{ background: #0078d4; color: white; border: none; padding: 10px 15px; border-radius: 4px; cursor: pointer; width: 100%; font-weight: bold; }
+button:hover 
+{ background: #005a9e; }

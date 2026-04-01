@@ -1,0 +1,25 @@
+<div class="container">
+  <header>
+    <h1>Willkommen, <span id="employee-name">Jerin Khan</span>!</h1>
+    <p>IT Onboarding Dashboard | Ingolstadt Office</p>
+  </header>
+
+  <div class="dashboard-grid">
+    <div class="card">
+      <h3>Digital Identity</h3>
+      <p><strong>Email:</strong> <span id="email">jerinkhan.de</span></p>
+      <p><strong>Status:</strong> <span class="badge">Active in Entra ID</span></p>
+      <div class="progress-bar"><div class="progress" style="width: 70%;"></div></div>
+    </div>
+
+    <div class="card">
+      <h3>IT Setup Checklist</h3>
+      <ul class="checklist">
+        <li><input type="checkbox" checked> Set up MFA (Authenticator)</li>
+        <li><input type="checkbox" checked> Enroll Device in Intune</li>
+        <li><input type="checkbox" id="task-vpn"> Connect to Company VPN</li>
+      </ul>
+      <button id="complete-btn">Complete Onboarding</button>
+    </div>
+  </div>
+</div>
