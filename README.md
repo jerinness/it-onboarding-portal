@@ -15,4 +15,4 @@ A functional web application built to demonstrate **Frontend Development** skill
 
 | Initial State | Completed Onboarding |
 | ------------- | -------------------- |
-| ![Before](Screenshot 2026-04-01 194848.png) | ![After](2026-04-01 194907.png) |
+| ![Before](Screenshot 2026-04-01 194848.png) | ![After](Screenshot 2026-04-01 194848.png) |
